@@ -36,6 +36,16 @@ I build clean, responsive web apps with React, Next.js, Node.js and TypeScript �
 
 ## 🚀 Featured Projects
 
+### PureNest Clean Co. — Cleaning Services Website
+**React · Vite · Express · MongoDB** — [Live Demo](https://purenest-clean-co.vercel.app) · [Source](https://github.com/goyal3407-gif/purenest-clean-co)
+
+A full cleaning-services website: instant price estimator, online booking with My Bookings, live availability, promo codes, gift cards and loyalty tiers, admin dashboard, and booking email alerts.
+
+### Social Scheduler — Free Instagram Scheduler
+**React · Vite · Express · MongoDB · Instagram Graph API** — [Live Demo](https://social-scheduler-one-sandy.vercel.app) · [Source](https://github.com/goyal3407-gif/social-scheduler)
+
+A free, Byvano-style Instagram scheduler: media library, bulk scheduling, calendar and queue, and publishing Reels from the website through the Instagram API.
+
 ### Dribbble-Inspired Designer Discovery Landing Page
 **HTML · CSS** — [Live Demo](https://cool-kataifi-ea07da.netlify.app) · [Source](https://github.com/goyal3407-gif/task4)
 
